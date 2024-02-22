@@ -22,4 +22,4 @@ FoodLover is a responsive restaurant landing page created from scratch using HTM
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/FoodLover.git](https://github.com/shuvo360/FoodLover)https://github.com/shuvo360/FoodLover
+git clone https://github.com/shuvo360/FoodLover
